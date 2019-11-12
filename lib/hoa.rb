@@ -5,9 +5,9 @@ BASE_HOA = {
 }
 
 
-def add_character(show, name)
 
-add_character(show, name)[:show] = [:show, name]
+
+add_character[:show] = [:show, name]
 end 
 
 # Write your implementation here
