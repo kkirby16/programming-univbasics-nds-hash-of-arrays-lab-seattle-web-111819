@@ -8,7 +8,8 @@ BASE_HOA = {
 def add_character(show, name)
 
 BASE_HOA[:show][-1] = [name]
-p show
+show
+end
 end
 
 # Write your implementation here
