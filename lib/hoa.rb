@@ -9,6 +9,7 @@ def add_character(show, name)
 
 add_character[:show][name] = [name]
 show
+end
 
 # Write your implementation here
   # Should return the array of the 'show' argument
