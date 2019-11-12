@@ -8,6 +8,7 @@ BASE_HOA = {
 
 
 add_character[:show] = [:show, name]
+:show
 end 
 
 # Write your implementation here
