@@ -9,7 +9,7 @@ BASE_HOA = {
 
 add_character[:show] = [:show, name]
 show
-end 
+
 
 # Write your implementation here
   # Should return the array of the 'show' argument
